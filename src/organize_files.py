@@ -32,8 +32,6 @@ for polar_file in polar_files:
         base_name = match.group(1)
         polar_bases[base_name] = polar_file
 
-# print(polar_bases)
-
 # Create the output directory structure
 for base_name in coord_bases:
     if base_name in polar_bases:

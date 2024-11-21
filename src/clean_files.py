@@ -34,8 +34,7 @@ def filter_coordinates(input_file_path):
     os.replace(temp_file_path, input_file_path)
 
 # Directory where files are saved
-# save_directory = "airfoil_coordinate_database"
-save_directory = "xfoil-runner-main"
+save_directory = "/" # provide a path
 
 # Process each file in the directory
 for filename in os.listdir(save_directory):
