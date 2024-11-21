@@ -15,4 +15,4 @@ The architecture has been further customized to improve accuracy and integrate w
 This model serves as a key component of a larger data-driven framework for eVTOL aerodynamics.
 
 ## References
-W. Peng, Y. Zhang, and M. Desmarais, "Spatial Convolution Neural Network for Efficient Prediction of Aerodynamic Coefficients," AIAA SciTech Forum, 2021. DOI: 10.2514/6.2021-0277.
+1. W. Peng, Y. Zhang, and M. Desmarais, "Spatial Convolution Neural Network for Efficient Prediction of Aerodynamic Coefficients," AIAA SciTech Forum, 2021. DOI: 10.2514/6.2021-0277.
